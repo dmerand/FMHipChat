@@ -22,7 +22,7 @@ You can send messages from the HIPCHAT layout, which is pretty obvious. You'll n
 
 To send a message, select a room, make sure to pick a "from" account (which you can make up), type in a message, and click "send". In the "result" box, you'll see whether the message went through, or whether HipChat's API returned any errors.
 
-_The "results" tab shows you the result of the API query/post.
+The "results" tab shows you the result of the API query/post.
 
 
 Creating and Importing Rooms
